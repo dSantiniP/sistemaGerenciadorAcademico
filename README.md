@@ -8,7 +8,8 @@ Projeto de conclusão do módulo de Banco de Dados do curso **Desenvolvedor Full
 
 **Cadastro com matrícula gerada pelo banco**
 
-![Cadastro de aluno](docs/cadastro.png)
+<img width="842" height="640" alt="Aluno matriculado" src="https://github.com/user-attachments/assets/2c512147-b1f0-41c6-a441-af6d717a1d9b" />
+
 
 **Código padronizado e matrícula repetida bloqueada**
 
