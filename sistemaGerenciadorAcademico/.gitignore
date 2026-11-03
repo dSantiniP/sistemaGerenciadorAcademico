@@ -1,0 +1,11 @@
+# credenciais
+application.properties
+
+# build do Maven
+target/
+dependency-reduced-pom.xml
+
+# arquivos do Eclipse
+.classpath
+.project
+.settings/
