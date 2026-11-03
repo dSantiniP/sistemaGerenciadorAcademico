@@ -4,31 +4,6 @@ Sistema de console em Java para cadastrar alunos, professores e disciplinas e ma
 
 Projeto de conclusão do módulo de Banco de Dados do curso **Desenvolvedor Full Stack em Java**, da **Fuctura Tecnologia**.
 
-## Demonstração
-
-**Cadastro com matrícula gerada pelo banco**
-
-<img width="842" height="640" alt="Aluno matriculado" src="https://github.com/user-attachments/assets/2c512147-b1f0-41c6-a441-af6d717a1d9b" />
-
-
-**Código padronizado e matrícula repetida bloqueada**
-
-<img width="972" height="587" alt="Controle de matricula" src="https://github.com/user-attachments/assets/8b37b469-6516-42f8-a68b-39bcc9dc5e4c" />
-
-
-**Aluno com matrícula não pode ser excluído**
-
-<img width="842" height="640" alt="Aluno matriculado" src="https://github.com/user-attachments/assets/37276527-a325-4cda-a673-324daabc89d6" />
-
-
-**O sistema continua rodando mesmo com o banco fora do ar**
-
-<img width="972" height="587" alt="Controle de matricula" src="https://github.com/user-attachments/assets/de6689c0-78f0-4055-a69b-90a0f1318010" />
-
-
-
-
-
 ## Tecnologias
 
 - Java 21
