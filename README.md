@@ -13,15 +13,21 @@ Projeto de conclusão do módulo de Banco de Dados do curso **Desenvolvedor Full
 
 **Código padronizado e matrícula repetida bloqueada**
 
-![Matrícula repetida](docs/matricula-repetida.png)
+<img width="972" height="587" alt="Controle de matricula" src="https://github.com/user-attachments/assets/8b37b469-6516-42f8-a68b-39bcc9dc5e4c" />
+
 
 **Aluno com matrícula não pode ser excluído**
 
-![Exclusão bloqueada](docs/exclusao-bloqueada.png)
+<img width="842" height="640" alt="Aluno matriculado" src="https://github.com/user-attachments/assets/37276527-a325-4cda-a673-324daabc89d6" />
+
 
 **O sistema continua rodando mesmo com o banco fora do ar**
 
-![Banco fora do ar](docs/banco-fora-do-ar.png)
+<img width="972" height="587" alt="Controle de matricula" src="https://github.com/user-attachments/assets/de6689c0-78f0-4055-a69b-90a0f1318010" />
+
+
+
+
 
 ## Tecnologias
 
